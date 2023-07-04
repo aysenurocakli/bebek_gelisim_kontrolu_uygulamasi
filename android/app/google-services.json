@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "372388861005",
+    "project_id": "baby-control-app-5f055",
+    "storage_bucket": "baby-control-app-5f055.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372388861005:android:95d6b94d8b0e3e8468b804",
+        "android_client_info": {
+          "package_name": "com.example.bitirme2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF5s1kpKEj7RRqu-4wBZT6QYlnQDVsQLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
