@@ -8,7 +8,6 @@ import 'package:bitirme2/components/roundedButton.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:sizer/sizer.dart';
-
 import '../../components/backIconButton.dart';
 import '../../main.dart';
 import '../../model/AnneUser.dart';
@@ -35,8 +34,7 @@ class _AddPercentilScreenState extends State<AddPercentilScreen> {
       print('Persentil Values: ${bebek.persentil}');
     }
   }
-  // !!!!!!!!!!!!!!!!!!!!!!!
-  //0. ay'ı burada eklemeye çalış
+ 
 
   void addPercentileToBebek(int bebekIndex, double percentile, String key) async {
     // Retrieve the specific bebek object
